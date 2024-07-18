@@ -19,11 +19,11 @@ Model Serving: uses the trained model to generate text.<br/>
 Python, PyTorch, HuggingFace Transformers, HuggingFace Space.
 
 ## Design Documents
-System Architecture
-Data Ingestion
-Model Training
-Model Serving
-Evaluation
+System Architecture <br/>
+Data Ingestion <br/>
+Model Training <br/>
+Model Serving <br/>
+Evaluation <br/>
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
